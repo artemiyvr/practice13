@@ -1,0 +1,8 @@
+ <resources>
+        <string name="app_name">Прямоугольный треугольник</string>
+        <string name="hint_side_a">Введите значение катета A</string>
+        <string name="hint_side_b">Введите значение катета B</string>
+        <string name="button_calculate">Вычислить</string>
+        <string name="enter_values">Введите значения катетов</string>
+        <string name="result_format">Гипотенуза: %.2f\nПериметр: %.2f\nПлощадь: %.2f</string>
+    </resources>
